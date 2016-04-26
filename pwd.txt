@@ -1,0 +1,2 @@
+super user: czh
+password: 123456asd
